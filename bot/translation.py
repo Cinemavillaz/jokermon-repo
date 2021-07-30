@@ -1,24 +1,20 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG & @MRK_YT
+# (c) @AlbertEinsteinTG
 
 class Translation(object):
     
-    START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
+    START_TEXT = """<b>Hey {}!!</b>
+<i>Am Just A Advance Auto Filter Bot....😉
 
-<b>Am Just A Pro Auto Filter Bot....😉</b>
+Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
 
-<b>Iam official bot of group @cinehut 🔥🔥😝</b>
-
-<b>ഇനി എന്തോ നോക്കി ഇരികുവ മൂവി വേണേ ഗ്രൂപ്പിൽ കേറി ചോയ്ക്ക് @cinehut</b>
-
-<b>എന്തായാലും വന്നേ അല്ലെ ചാനലിൽ കേറി ജോയിൻ ആയിക്കോ 👇👇
-https://t.me/joinchat/V2gc9SVAlUOZVxUy</b>
-
-<b>Press /help to know about available commands🤪</b>"""    
+For More Details Click Help Button Below..
+@Cv_group1 
+</i>"""    
     
     HELP_TEXT = """
-<b>😉How To Use Me!😉?</b>
+<b><i><u>How To Use Me!?</u></i></b>
 
 <i>
 -> Add Me To Any Group And Make Me Admin
@@ -47,10 +43,16 @@ https://t.me/joinchat/V2gc9SVAlUOZVxUy</b>
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-<b><a href="https://t.me/cinehut">cinemahut</a></b>
+@CrazyBotsz
 """
     
-    ABOUT_TEXT = """
-NOTHINNG MORE AND NOTHING ABOUT ME... 
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    
+<b>➥ Group</b> : <b><i><a href="https://t.me/cv_group1">Join</a></i></b>
 
+<b>➥ Language</b> : <code>Python3</code>
+
+<b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
+
+<b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">🔐</a></i>
 """
