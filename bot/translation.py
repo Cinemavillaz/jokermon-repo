@@ -5,12 +5,11 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>ഞാൻ <b><a href="https://t.me/cv_group1”>ᴄɪɴᴇᴍᴀ ᴠɪʟʟᴀ</a></b> എന്ന ഗ്രൂപ്പിൽ മൂവീസ് കൊടുക്കുന്ന ബോട്ട് ആണ്
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+എന്നെ വേറൊരു ഗ്രൂപ്പിലും ഉപയോഗിക്കാൻ കഴിയുകയില്ല
 
-For More Details Click Help Button Below..
-@Cv_group1 
+🕵‍♂ ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ 👉 <b><a href="https://t.me/Cv_groupAdmin2">ᴅᴀʀᴋᴛʜᴇꜰʀᴇᴀᴋɪɴɢᴄʟᴀꜱʜᴇʀ</a></b>
 </i>"""    
     
     HELP_TEXT = """
@@ -43,7 +42,7 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@Cv_group1 
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
